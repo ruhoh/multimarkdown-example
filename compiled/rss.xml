@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title/>
+    <description/>
+    <link/>
+    <pubDate>2014-03-22</pubDate>
+    <item>
+      <title>Index</title>
+      <link>/</link>
+      <description>&lt;p&gt;In order to create valid &lt;a href="http://en.wikipedia.org/wiki/HTML"&gt;HTML&lt;/a&gt;, you need properly
+coded syntax that can be cumbersome for
+&amp;#8220;non-programmers&amp;#8221; to write. Sometimes, you just want
+to easily make certain words &lt;strong&gt;bold&lt;/strong&gt;, and certain
+words &lt;em&gt;italicized&lt;/em&gt; without having to remember the
+syntax. Additionally, for example, creating lists:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;should be easy&lt;/li&gt;
+&lt;li&gt;should not involve programming&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+  </channel>
+</rss>
